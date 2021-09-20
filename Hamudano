@@ -1,7 +1,11 @@
 {
     "project": "Hamudano",
     "policies": [
-        "e2237d9d38338746aaf2efdfdbbe662597f81496c16711d999b4e115"
-       
+        "e2237d9d38338746aaf2efdfdbbe662597f81496c16711d999b4e115",
+        "8455ccfc58e06202fa31ae4fe42fbfd083543c9e8f88e40cb0d8ced4",
+        "1a004b98e7b0c2583d50426e10c5f00989300bbaa3b8936d1b79a59b",
+        "daab42c2f48b04fb8888a5c87538a6f949232a070387603fa2d4aa03",
+        "d19b540d2f97d7b52a8a79e37032dbb01b31ca56cfc10d091bdcced0",
+        "af9cc98bdcb9c6380178dafaabd2d9a823428be09bd56aec295472b0"
     ]
 }
